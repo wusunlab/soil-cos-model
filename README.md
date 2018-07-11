@@ -4,9 +4,10 @@ Wu Sun (wu.sun@ucla.edu)
 
 This repository stores legacy code of a model that simulates soil-atmosphere
 flux of carbonyl sulfide (COS) — an exotic trace gas that is of interest to
-sulfur cycling and ecosystem photosynthesis studies. The model solves a 1D
+sulfur cycling and ecosystem photosynthesis studies ([Whelan et al.,
+2018](https://www.biogeosciences.net/15/3625/2018/)). The model solves a 1D
 diffusion–(advection)–reaction equation of COS in the soil column. Details of
-the model structure is described in the paper [Sun et al.
+the model structure have been described in the paper [Sun et al.
 (2015)](https://www.geosci-model-dev.net/8/3055/2015/).
 
 There are two implementation of the model, one in IDL (a proprietary high level
@@ -15,8 +16,8 @@ version and to use it requires `numpy`, `scipy`, and `matplotlib` to be
 pre-installed.
 
 **Warning**: The coding style of the Python version does not adhere to the PEP8
-standard. Moreover, it does not separate script from functions. Some scripts
-lack documentation and have not been sufficiently tested. Use with caution.
+standard. Moreover, some scripts lack documentation and have not been
+sufficiently tested. Use with caution.
 
 ## Usage
 
@@ -42,7 +43,7 @@ publication [Sun et al. (2015)](https://www.geosci-model-dev.net/8/3055/2015/).
 
 Development has been discontinued as of 2016. I would not be able to provide
 further maintenance or support. However, a new framework is currently in
-development (one soil flux model that rules 'em all).
+development (one soil flux model to rule 'em all).
 
 ## Citation
 
