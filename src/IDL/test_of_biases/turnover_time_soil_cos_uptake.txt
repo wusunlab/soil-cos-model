@@ -1,0 +1,12 @@
+0.02 pmol g-1 min-1
+-->
+0.333 pmol kg-1 s-1
+
+bulk density 1660 kg m-3
+553 pmol m-3 s-1
+
+air conc of COS: 500 pptv (25 C, 1 atm) --> 20437 pmol m-3
+
+turn-over frequency of soil uptake
+0.02706 s-1
+

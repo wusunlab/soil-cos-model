@@ -1,0 +1,8 @@
+7.5 pmol per kg soil per min in Figure 3 of Whelan et al. (2015) JGRB
+0.125 pmol kg-1 s-1 at 19C
+166.25 pmol m-3 s-1 at 19C
+
+0.75 pmol per 100g soil per min
+0.75 pmol per 100 cm2 per min?
+75 pmol per m2 per min
+1.25 pmol per m2 per sec

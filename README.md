@@ -6,7 +6,8 @@ This repository stores legacy code of a model that simulates soil-atmosphere
 flux of carbonyl sulfide (COS) — an exotic trace gas that is of interest to
 sulfur cycling and ecosystem photosynthesis studies. The model solves a 1D
 diffusion–(advection)–reaction equation of COS in the soil column. Details of
-the model structure is described in the paper Sun et al. (2015).
+the model structure is described in the paper [Sun et al.
+(2015)](https://www.geosci-model-dev.net/8/3055/2015/).
 
 There are two implementation of the model, one in IDL (a proprietary high level
 language), the other in Python 3. The Python 3 version is the more updated
@@ -19,8 +20,8 @@ lack documentation and have not been sufficiently tested. Use with caution.
 
 ## Usage
 
-Since the model is provided as scripts not packages, you can just checkout this
-git repository
+Since the model is provided as scripts not a package, you can just checkout
+this git repository
 
 ```shell
 git checkout https://github.com/wusunlab/soil-cos-model.git
